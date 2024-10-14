@@ -11,7 +11,7 @@ pelos macaquinhos. </p>
   sairá no terminal. Para alterar entre os casos, ir na classe <strong>"LerArquivoTexto.java"<strong> e alterar os casos na <strong>linha 17<strong> em 
   "String nameComplete = currDir + "\\" + "<strong>casoa0.txt<strong>". </p><br>
   Gabarito dos casos:
-    <li> 
+    <li>
       <ul>Caso0.txt - 37</ul>
       <ul>Caso30.txt - 28</ul>
       <ul>Caso60.txt -62</ul>
