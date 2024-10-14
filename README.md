@@ -9,17 +9,19 @@ pelos macaquinhos. </p>
 ## Como usar
   <p>Por não conter uma interface gráfica, o programa roda inteiramente no terminal. Faça o donwload dos arquivos e rode em seu editor de texto favorito, compilar o código e resultado 
   sairá no terminal. Para alterar entre os casos, ir na classe <strong>"LerArquivoTexto.java"<strong> e alterar os casos na <strong>linha 17<strong> em 
-  "String nameComplete = currDir + "\\" + "<strong>casoa0.txt<strong>". <\p>
+  "String nameComplete = currDir + "\\" + "<strong>casoa0.txt<strong>". </p><br>
   Gabarito dos casos:
-  Caso0: 37
-  Caso30: 28
-  Caso60: 62
-  Caso90: 116
-  Caso120: 148
-  Caso150: 175
-  Caso180: 232
-  Caso250: 290
-  Caso300: 310
+    <li> 
+      <ul>Caso0.txt - 37</ul>
+      <ul>Caso30.txt - 28</ul>
+      <ul>Caso60.txt -62</ul>
+      <ul>Caso90.txt - 116</ul>
+      <ul>Caso120.txt - 148</ul>
+      <ul>Caso150.txt - 175</ul>
+      <ul>Caso180.txt - 232</ul>
+      <ul>Caso250.txt - 290</ul>
+      <ul>Caso300.txt - 310</ul>
+    </li>  
   
   Bom uso!!
 
