@@ -13,7 +13,7 @@ public class LerAquivoTexto {
 
     public void LerAquivo() {
 
-        String currDir = Paths.get("src/Casos").toAbsolutePath().toString();
+        String currDir = Paths.get("Casos").toAbsolutePath().toString();
         String nameComplete = currDir + "\\" + "casoa30.txt";
         Path path = Paths.get(nameComplete);
 
